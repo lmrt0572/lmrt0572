@@ -7,20 +7,24 @@ part of it as I go.
 
 Looking for a 4-month international internship, June to September 2027.
 
+[![A padel rally rebuilt in 3D from a single camera](https://raw.githubusercontent.com/lmrt0572/padel-analysis/main/docs/figures/banner.gif)](https://github.com/lmrt0572/padel-analysis)
+
 #### Projects
 
-- [portfolio](https://github.com/lmrt0572/portfolio) : this site, bilingual and statically rendered, with an interactive demo of the algorithm behind each project  
+- [padel-analysis](https://github.com/lmrt0572/padel-analysis) : reads a padel match from a single broadcast camera, names what the ball touched at every contact and turns it into game statistics, checked against 2,000+ hand-marked contacts\
+  `Python` · `PyTorch` · `OpenCV` · `YOLO pose`
+- [portfolio](https://github.com/lmrt0572/portfolio) : this site, bilingual and statically rendered, with an interactive demo of the algorithm behind each project\
   `Next.js` · `TypeScript` · `Tailwind`
-- [EasySave](https://github.com/lmrt0572/EasySave) : backup software running parallel jobs, with a remote monitoring client  
+- [EasySave](https://github.com/lmrt0572/EasySave) : backup software running parallel jobs, with a remote monitoring client\
   `C#` · `.NET` · `WPF`
 
 #### Contributions
 
-- [Breezy](https://github.com/DAD-groupe-6/Breezy) : social network built as a distributed application  
+- [Breezy](https://github.com/DAD-groupe-6/Breezy) : social network built as a distributed application\
   `Node.js` · `MongoDB` · `Docker`
-- [tsp-resolver](https://github.com/clementmns/tsp-resolver) : travelling salesman under precedence and forbidden-edge constraints  
+- [tsp-resolver](https://github.com/clementmns/tsp-resolver) : travelling salesman under precedence and forbidden-edge constraints\
   `Metaheuristics` · `Simulated annealing`
-- [StageLink](https://github.com/Lucacist/StageLinkV1) : internship offer platform for a school  
+- [StageLink](https://github.com/Lucacist/StageLinkV1) : internship offer platform for a school\
   `PHP` · `MVC` · `MySQL`
 
 #### Reach me
